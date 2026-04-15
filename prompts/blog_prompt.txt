@@ -1,0 +1,25 @@
+Act as an SEO content writer.
+
+Create an SEO-optimized blog post.
+
+Business details:
+- Name: GrowthX Digital
+- Location: Bhopal
+- Target audience: Small business owners and startups
+
+Instructions:
+- Write a blog of 800–1000 words
+- Use simple, clear language
+- Include:
+  1. Title (SEO-friendly)
+  2. Introduction
+  3. H2 and H3 headings
+  4. Conclusion
+- Make it helpful and informative
+- Focus on real value, not keyword stuffing
+
+Also include:
+- 5 SEO keywords used in the blog
+
+Topic:
+"What is SEO and why it matters for small businesses"
